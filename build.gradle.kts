@@ -21,3 +21,7 @@ testing {
         }
     }
 }
+
+application {
+    mainClass = "uk.co.bluegecko.marine.tracker.TrackerApplication"
+}
